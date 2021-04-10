@@ -6,4 +6,5 @@ Reformatted css again trying to find best fit.
 Added new div for background.
 Added new css elements.
 Added boxed around headers and nav links.
-Next I resized the boxes and information on the page 
+Next I resized the boxes and information on the page.
+Added responsiveness for other devices.
