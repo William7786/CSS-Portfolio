@@ -1,51 +1,66 @@
 
-    *{
-background-color: rgb(218, 237, 253);
- }
-    body{
-height: 100%;
-position:relative;
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.theme{
+    height: 800px;
+    width: 100%;
+    background-image: linear-gradient(white,blue,white);
+    background-size: cover;
+    background-position: center;
+} 
+
+.header h1{
+    text-align: left;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+}
+h1{
+    margin-top: 50px;
+    
+}
+
+
+.header nav li{
+    text-align: right;
+    margin-right: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    color:black;
+    
+}
+a{
+    color:black;
+
+    
+}
+section{
+    margin-top: 300px;
+}
+#about{
+margin-left: 100px;
+margin-right:50px;
+}
+
+ 
+ 
+.images h1{
+    text-align: left;
+    margin-right: 50px;
+
+    
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    margin:10px;
+    margin-top:50px;
+    padding-left: 50px;
+    border-left: 20px darkblue;
 
 }
 
-    nav{
-text-align:right;
-margin-top:-50px;
-padding: blue;
-color: blue;
-text-underline-position:below;}
-
-
- header h1{
-padding: 50px;
-text-align: left;
-background: #3d1abc;
-color: white;
-font-size: 30px;
-
-
- }
-
-#img1{
-position:left;
-margin:1px;
-border-left: black;
-
-
-}
-
-#img2{
-position:center;
-margin:1px;
-border-left: black;
-
-
-}
-
-#img3{
-position:right;
-margin:1px;
-border-left: black;
-
-
-}
