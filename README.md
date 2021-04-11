@@ -10,3 +10,4 @@ Next I resized the boxes and information on the page.
 Added responsiveness for other devices.
 Added box design for images. Added github Link. Reorganized html images figure section.
 Added picture of myself. Added Bio.
+Removed unused classes. Added Picture Link.
