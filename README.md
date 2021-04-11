@@ -12,6 +12,6 @@ Added box design for images. Added github Link. Reorganized html images figure s
 Added picture of myself. Added Bio.
 Removed unused classes. Added Picture Link.
 Added Small 3000ms transition when you enter the website.
-
+![Portfolio readme img](https://user-images.githubusercontent.com/80493413/114290152-6f920f80-9a4b-11eb-9224-efe7ba659638.png)
 link: https://william7786.github.io/CSS-Portfolio/
 
