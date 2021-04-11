@@ -79,10 +79,11 @@ margin-top: 20px;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
 }
 
-img{
+
+img, .img1{
 border-radius: 8px;
 margin-top: 15px;
-width:200px;
+width:auto;
 height:auto;
 display:block;
 margin-right: auto;
@@ -103,6 +104,6 @@ background-color: whitesmoke;
 
 h3{
 text-align: center;
+
 }
 
-  
